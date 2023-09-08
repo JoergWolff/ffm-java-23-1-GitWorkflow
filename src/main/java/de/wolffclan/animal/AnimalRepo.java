@@ -10,4 +10,11 @@ public class AnimalRepo {
         animals = new ArrayList<>();
         animals.add(new Animal(1,"Leo"));
     }
+
+    @Override
+    public String toString() {
+        return "AnimalRepo{" +
+                "animals=" + animals +
+                '}';
+    }
 }
