@@ -25,3 +25,16 @@
 
     Schritt 10: Führt nach Genehmigung den Merge durch und löscht den Feature-Branch.
 
+
+## Bonus Aufgabe
+
+
+    Forked dieses Github Repository link über den fork-button oben rechts.
+
+    Achtet dadrauf das ihr beim forken den Haken "Copy the main branch only" rausnehmt!
+
+    Achtet beim Pull-Request auf das ihr eures eigene Repository auswählt.
+
+    Arbeitet zu zwei die Aufgaben in der README ab.
+
+
